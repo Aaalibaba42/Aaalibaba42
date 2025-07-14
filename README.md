@@ -1,13 +1,9 @@
 # Jules Wiriath - C++ Enjoyer
 
-<div align="center">
+![](https://komarev.com/ghpvc/?username=Aaalibaba42&color=7a5ccc&style=pixel)
 <a href="https://github.com/anuraghazra/github-readme-stats" target="blank">
-  <img height=200 align="center" src="https://github-readme-stats-beta-indol-38.vercel.app/api?username=Aaalibaba42&show_icons=true&locale=en&theme=shades-of-purple&count_private=true" />
+   <img align="center" src="https://github-readme-stats-beta-indol-38.vercel.app/api/top-langs?username=Aaalibaba42&show_icons=true&locale=en&theme=midnight-purple&count_private=true&hide=qml,cmake,css&layout=compact" />
 </a>
-<a href="https://github.com/anuraghazra/github-readme-stats" target="blank">
-   <img height=200 align="center" src="https://github-readme-stats-beta-indol-38.vercel.app/api/top-langs?username=Aaalibaba42&show_icons=true&locale=en&theme=shades-of-purple&count_private=true&layout=compact&langs_count=8&hide=M4&size_weight=0.5&count_weight=0.5&card_width=320" />
-</a>
-</div>
 
 ## My bestest projects:
 
