@@ -1,6 +1,7 @@
-# Jules Wiriath - C++ Enjoyer
-
 ![](https://komarev.com/ghpvc/?username=Aaalibaba42&color=7a5ccc)
+
+# Jules Wiriath
+
 <a href="https://github.com/anuraghazra/github-readme-stats" target="blank">
    <img align="center" src="https://github-readme-stats-beta-indol-38.vercel.app/api/top-langs?username=Aaalibaba42&show_icons=true&locale=en&theme=midnight-purple&count_private=true&hide=qml,cmake,css&layout=compact" />
 </a>
